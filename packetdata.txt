@@ -1,0 +1,89 @@
+[java]  INFO [AWT-EventQueue-1] (TimeLine.java:779) - 1 nr_logs 129
+     [java] 1 led_red 10676 us 0.0019502267605340984 %
+     [java] 1 led_green 30725 us 0.00561265616498784 %
+     [java] 1 led_blue 361 us 6.594528480262359E-5 %
+     [java] 1 radio_on 409510645 us 74.80691444385343 %
+     [java] 1 radio_tx 13927236 us 2.544142782640865 %
+     [java] 1 radio_rx 7473133 us 1.3651464932212878 %
+     [java] 1 radio_int 14557891 us 2.6593470031040187 %
+     [java] 2 nr_logs 7
+     [java] 2 led_red 10679 us 0.001950774782291461 %
+     [java] 2 led_green 30725 us 0.00561265616498784 %
+     [java] 2 led_blue 361 us 6.594528480262359E-5 %
+     [java] 2 radio_on 7990956 us 1.459739250042199 %
+     [java] 2 radio_tx 2778704 us 0.5075967497567574 %
+     [java] 2 radio_rx 136691 us 0.024969880678546875 %
+     [java] 2 radio_int 326393 us 0.059623488483608655 %
+     [java] 3 nr_logs 7
+     [java] 3 led_red 10681 us 0.0019511401301297027 %
+     [java] 3 led_green 30725 us 0.00561265616498784 %
+     [java] 3 led_blue 361 us 6.594528480262359E-5 %
+     [java] 3 radio_on 11346713 us 2.072748532849395 %
+     [java] 3 radio_tx 5019568 us 0.9169441588535616 %
+     [java] 3 radio_rx 213377 us 0.03897841284024769 %
+     [java] 3 radio_int 416323 us 0.07605135403014589 %
+     [java] 4 nr_logs 7
+     [java] 4 led_red 10677 us 0.0019504094344532192 %
+     [java] 4 led_green 30724 us 0.0056124734910687184 %
+     [java] 4 led_blue 361 us 6.594528480262359E-5 %
+     [java] 4 radio_on 7545944 us 1.3784471639463953 %
+     [java] 4 radio_tx 2225819 us 0.4065990799836312 %
+     [java] 4 radio_rx 277712 us 0.050730739426886995 %
+     [java] 4 radio_int 388510 us 0.07097064431763793 %
+     [java] 5 nr_logs 7
+     [java] 5 led_red 10680 us 0.0019509574562105818 %
+     [java] 5 led_green 30726 us 0.005612838838906961 %
+     [java] 5 led_blue 361 us 6.594528480262359E-5 %
+     [java] 5 radio_on 11119377 us 2.0312201747721392 %
+     [java] 5 radio_tx 4732864 us 0.86457081554594 %
+     [java] 5 radio_rx 234697 us 0.04287302079590402 %
+     [java] 5 radio_int 370346 us 0.06765255525072697 %
+     [java] 6 nr_logs 7
+     [java] 6 led_red 10678 us 0.0019505921083723399 %
+     [java] 6 led_green 30724 us 0.0056124734910687184 %
+     [java] 6 led_blue 361 us 6.594528480262359E-5 %
+     [java] 6 radio_on 8406772 us 1.5356979883953508 %
+     [java] 6 radio_tx 1865314 us 0.3407442187709724 %
+     [java] 6 radio_rx 819402 us 0.14968337467545534 %
+     [java] 6 radio_int 289719 us 0.052924105173770934 %
+     [java] 7 nr_logs 7
+     [java] 7 led_red 10676 us 0.0019502267605340984 %
+     [java] 7 led_green 30724 us 0.0056124734910687184 %
+     [java] 7 led_blue 361 us 6.594528480262359E-5 %
+     [java] 7 radio_on 13853218 us 2.5306216244953785 %
+     [java] 7 radio_tx 5403777 us 0.9871291226450607 %
+     [java] 7 radio_rx 723545 us 0.1321728008102889 %
+     [java] 7 radio_int 221484 us 0.04045935030256034 %
+     [java] 8 nr_logs 7
+     [java] 8 led_red 10675 us 0.0019500440866149775 %
+     [java] 8 led_green 30721 us 0.005611925469311356 %
+     [java] 8 led_blue 361 us 6.594528480262359E-5 %
+     [java] 8 radio_on 9337525 us 1.7057222866388309 %
+     [java] 8 radio_tx 2581959 us 0.4716565695393275 %
+     [java] 8 radio_rx 684208 us 0.12498695685383236 %
+     [java] 8 radio_int 255719 us 0.046713191923662335 %
+     [java] 9 nr_logs 7
+     [java] 9 led_red 10682 us 0.0019513228040488233 %
+     [java] 9 led_green 30725 us 0.00561265616498784 %
+     [java] 9 led_blue 364 us 6.649330655998611E-5 %
+     [java] 9 radio_on 8057709 us 1.4719332821652724 %
+     [java] 9 radio_tx 2486576 us 0.45423258311182435 %
+     [java] 9 radio_rx 410972 us 0.07507386588893027 %
+     [java] 9 radio_int 288678 us 0.052733941623966135 %
+     [java] 10 nr_logs 7
+     [java] 10 led_red 10678 us 0.0019505921083723399 %
+     [java] 10 led_green 31004 us 0.005663622188422555 %
+     [java] 10 led_blue 361 us 6.594528480262359E-5 %
+     [java] 10 radio_on 11417026 us 2.085592884124539 %
+     [java] 10 radio_tx 4844332 us 0.8849331119625018 %
+     [java] 10 radio_rx 328831 us 0.06006884749842526 %
+     [java] 10 radio_int 327465 us 0.05981931492490619 %
+     [java] AVERAGE nr_logs 0
+     [java] AVERAGE led_red 106782 us 0.019506286431561642 %
+     [java] AVERAGE led_green 30752 us 0.0056175883608041025 %
+     [java] AVERAGE led_blue 36 us 6.576261088350275E-6 %
+     [java] AVERAGE radio_on 49858588 us 9.107863671791334 %
+     [java] AVERAGE radio_tx 4586614 us 0.8378547548745169 %
+     [java] AVERAGE radio_rx 1130256 us 0.20646829312984524 %
+     [java] AVERAGE radio_int 1744252 us 0.3186293487743651 %
+
